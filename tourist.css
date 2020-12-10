@@ -1,0 +1,42 @@
+#Menu {
+	background-color: tomato;
+}
+#Menu li {
+
+	list-style-type: none;
+	display: inline;
+	margin-right: 10px;
+	margin-left: 10px;
+	color: black;
+	font-family: helvetica;
+	font-size: 18px;
+}
+
+#Menu li a {
+	text-decoration: none;
+	color: blue;
+}
+#Menu li a:hover {
+	background-color: white;
+	color: black;
+}
+body {
+	background: linear-gradient(#fea3aa, #f8b88b, #faf884, #baed91, #baed91, #b2cefe, #f2a2e8, #fea3aa);
+}
+h2 {
+	color: blue;
+}
+#K {
+	color: white;
+	background-color: black;
+}
+#J {
+	color: white;
+	background-color: black;
+
+}
+#Source {
+	color: white;
+	background-color: green;
+
+}
