@@ -1,0 +1,42 @@
+body {
+	background: linear-gradient(#7FFFD4,#9966CC,#7FFF00,#E0B0FF);
+}
+h1 {
+	color: blue;
+}
+h3 {
+	color: yellow;
+}
+#Menu li a {
+	text-decoration: none;
+	color: blue;
+}
+#Menu li a:hover {
+	background-color: white;
+	color: black;
+}
+#Menu {
+	background-color: tomato;
+}
+#Menu li {
+
+	list-style-type: none;
+	display: inline;
+	margin-right: 10px;
+	margin-left: 10px;
+	color: black;
+	font-family: helvetica;
+	font-size: 18px;
+}
+p {
+	color: red;
+	background-color: yellow;
+}
+ul {
+	color: yellow;
+}
+#Source {
+	color: white;
+	background-color: green;
+
+}
