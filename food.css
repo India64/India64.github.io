@@ -1,0 +1,38 @@
+#Menu {
+	background-color: tomato;
+}
+#Menu li {
+
+	list-style-type: none;
+	display: inline;
+	margin-right: 10px;
+	margin-left: 10px;
+	color: black;
+	font-family: helvetica;
+	font-size: 18px;
+}
+#Menu li a {
+	text-decoration: none;
+	color: blue;
+}
+#Menu li a:hover {
+	background-color: white;
+	color: black;
+}
+body {
+	background: linear-gradient(#9966CC,#007FFF,#A7FC00);
+}
+h2 {
+	color: #00FF7F;
+}
+p {
+	color: white;
+}
+span {
+	color: red;
+}
+#Source {
+	color: white;
+	background-color: green;
+
+}
