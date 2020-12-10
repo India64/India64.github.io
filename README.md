@@ -8,7 +8,7 @@
 	<nav id="Menu">
 	<ul>
 		
-		<li><a href="India.html"> Home</a></li>
+		<li><a href="README.md"> Home</a></li>
 		<li><a href="Culture.html"> Culture and Festivals</a></li>
 		<li><a href="Food.html">Food</a> </li>
 		<li><a href="tourist.html"> Places to Visit</a></li>
