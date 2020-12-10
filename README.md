@@ -1,5 +1,5 @@
 # India64.github.io
-<!DOCTYPE html>
+
 <html>
 <body>
 	<link rel="stylesheet" type="text/css" href="india.css">
@@ -34,5 +34,5 @@
 
 
 
-</body>
+
 </html>
